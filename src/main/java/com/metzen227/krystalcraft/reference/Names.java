@@ -5,16 +5,22 @@ public class Names
     public static final class Blocks
     {
         public static final String ATTUNEMENT_TABLE = "attunementTable";
+        public static final String CONTAINMENT_CHAMBER = "containmentChamber";
         public static final String INFUSION_CHAMBER_BASE = "infusionChamberBase";
         public static final String INFUSION_CHAMBER_CONTAINMENT = "infusionChamberContainment";
-        public static final String KRYSTAL_CONTAINMENT = "krystalContainment";
-        public static final String KRYSTAL_CHAMBER_BASE = "krystalChamberBase";
+        public static final String GROWTH_CHAMBER_CONTAINMENT = "growthChamberContainment";
+        public static final String GROWTH_CHAMBER_BASE = "growthChamberBase";
         public static final String KRYSTAL_ACCUMULATOR_CONTROLLER = "krystalAccumulatorController";
         public static final String KRYSTAL_ACCUMULATOR_ITEM_INTERFACE = "krystalAccumulatorItemInterface";
         public static final String KRYSTAL_ACCUMULATOR_POWER_INTERFACE = "krystalAccumulatorPowerInterface";
         public static final String KRYSTAL_ACCUMULATOR_CORE = "krystalAccumulatorCore";
         public static final String KRYSTAL_ACCUMULATOR_FOCI_EMITTER = "krystalAccumulatorFociEmitter";
         public static final String FOCI_PYLON = "fociPylon";
+    }
+
+    public static final class Containers
+    {
+        public static final String KRYSTAL_CONTAINMENT_CHAMBER = "krystalContainmentChamber";
     }
 
     public static final class Items
@@ -25,6 +31,12 @@ public class Names
         public static final String KRYSTAL_SETTING = "krystalSetting";
         public static final String INFUSION_CORE = "infusionCore";
         public static final String KRYSTAL_POUCH = "krystalPouch";
+        public static final String INGOT_KRYSTAL = "ingotKrystal";
+
+    }
+
+    public static final class Krystal
+    {
         public static final String KRYSTAL_HOLDING = "krystalHolding";
         public static final String KRYSTAL_TELEPORT = "krystalTeleport";
         public static final String KRYSTAL_HEALING = "krystalHealing";
@@ -45,9 +57,20 @@ public class Names
         public static final String KRYSTAL_ASCENSION = "krystalAscension";
         public static final String KRYSTAL_MENDING = "krystalMending";
         public static final String KRYSTAL_FIRERESIST = "krystalFireResist";
-        
+        public static final String KRYSTAL_NECROSIS = "krystalNecrosis";
+        public static final String KRYSTAL_MAGNETIC = "krystalMagnetic";
+        public static final String KRYSTAL_IMPRISONMENT = "krystalImprisonment";
 
     }
+
+    public static final class Armor
+    {
+        public static final String KRYSTAL_ARMOR_HELMET = "krystalArmorHelmet";
+        public static final String KRYSTAL_ARMOR_CHEST = "krystalArmorChest";
+        public static final String KRYSTAL_ARMOR_LEGS = "krystalArmorLegs";
+        public static final String KRYSTAL_ARMOR_BOOTS = "krystalArmorBoots";
+    }
+
 
     public static final class Tools
     {
@@ -63,6 +86,7 @@ public class Names
 
     public static final class NBT
     {
+        public static final String ITEMS = "Items";
         public static final String MODE = "mode";
         public static final String OWNER = "owner";
         public static final String DIRECTION = "teDirection";
