@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+    <list comment="" default="true" id="5eef777d-cf60-4450-b5da-8f9938606766" name="Default"/>
+    <ignored path="latigra.iws"/>
+    <ignored path=".idea/workspace.xml"/>
     <option name="TRACKING_ENABLED" value="true"/>
     <option name="SHOW_DIALOG" value="false"/>
     <option name="HIGHLIGHT_CONFLICTS" value="true"/>
@@ -10,13 +13,12 @@
   <component flattened_view="true" name="ChangesViewManager" show_ignored="false"/>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value=""/>
-    <option name="REVERSE_PATCH" value="false"/>
   </component>
   <component name="DaemonCodeAnalyzer">
     <disable_hints/>
   </component>
   <component name="DebuggerManager">
-    <breakpoint_any>
+    <breakpoint_any converted="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true"/>
         <option name="NOTIFY_UNCAUGHT" value="true"/>
@@ -48,19 +50,104 @@
         <option name="LOG_MESSAGE" value=""/>
       </breakpoint>
     </breakpoint_any>
-    <breakpoint_rules/>
-    <ui_properties/>
+    <ui_properties converted="true"/>
+    <breakpoint_rules converted="true"/>
+  </component>
+  <component SELECTED_TARGET="default_target" name="ExecutionTargetManager"/>
+  <component name="FavoritesManager">
+    <favorites_list name="latigra"/>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file current="true" current-in-tab="true" leaf-file-name="KrystalCraft.java" pinned="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/KrystalCraft.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state max-vertical-offset="1056" vertical-offset="0" vertical-scroll-proportion="0.53125">
+              <caret column="23" line="46" selection-end-column="23" selection-end-line="46" selection-start-column="23" selection-start-line="46"/>
+              <folding/>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current="false" current-in-tab="false" leaf-file-name="NBTHelper.java" pinned="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/util/NBTHelper.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state max-vertical-offset="4148" vertical-offset="0" vertical-scroll-proportion="0.0">
+              <caret column="38" line="41" selection-end-column="38" selection-end-line="41" selection-start-column="38" selection-start-line="41"/>
+              <folding>
+                <element expanded="true" signature="imports"/>
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true"/>
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resources/mcmod.info"/>
+        <option value="$PROJECT_DIR$/src/main/java/com/krystalcraft/util/References.java"/>
+        <option value="$PROJECT_DIR$/src/main/java/com/krystalcraft/krystalCraft.java"/>
+        <option value="$PROJECT_DIR$/src/main/java/com/krystalcraft/krystalcraft.java"/>
+        <option value="$PROJECT_DIR$/src/main/java/com/krystalcraft/proxy/IProxy.java"/>
+        <option value="$PROJECT_DIR$/src/main/java/com/krystalcraft/proxy/ServerProxy.java"/>
+        <option value="$PROJECT_DIR$/src/main/java/com/krystalcraft/proxy/ClientProxy.java"/>
+        <option value="$PROJECT_DIR$/src/main/java/com/krystalcraft/proxy/CommonProxy.java"/>
+        <option value="$PROJECT_DIR$/src/main/java/com/krystalcraft/configuration/ConfigurationHandler.java"/>
+        <option value="$PROJECT_DIR$/src/main/java/com/krystalcraft/GuiFactory.java"/>
+        <option value="$PROJECT_DIR$/src/main/java/com/krystalcraft/client/GuiFactory.java"/>
+        <option value="$PROJECT_DIR$/src/main/java/com/krystalcraft/client/gui/GuiConfig.java"/>
+        <option value="$PROJECT_DIR$/src/main/java/com/krystalcraft/client/gui/GuiFactory.java"/>
+        <option value="$PROJECT_DIR$/src/main/java/com/krystalcraft/reference/References.java"/>
+        <option value="$PROJECT_DIR$/src/main/java/com/krystalcraft/client/gui/ModGuiConfig.java"/>
+        <option value="$PROJECT_DIR$/src/main/java/com/krystalcraft/KrystalCraft.java"/>
+        <option value="$PROJECT_DIR$/src/main/java/com/krystalcraft/handler/ConfigurationHandler.java"/>
+        <option value="$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/reference/References.java"/>
+        <option value="$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/util/LogHelper.java"/>
+        <option value="$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/handler/ConfigurationHandler.java"/>
+        <option value="$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/block/BlockAttunementTable.java"/>
+        <option value="$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/item/ItemAttunementRod.java"/>
+        <option value="$PROJECT_DIR$/build.gradle"/>
+        <option value="$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/item/ItemBaseKC.java"/>
+        <option value="$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/creativeTab/CreativeTabKC.java"/>
+        <option value="$PROJECT_DIR$/src/main/resources/assets/krystalcraft/lang/en_US.lang"/>
+        <option value="$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/tileentity/TileEntityKC.java"/>
+        <option value="$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/util/ResourceLocationHelper.java"/>
+        <option value="$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/reference/Textures.java"/>
+        <option value="$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/init/Recipies.java"/>
+        <option value="$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/KrystalCraft.java"/>
+        <option value="$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/reference/GuiId.java"/>
+        <option value="$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/init/ModBlocks.java"/>
+        <option value="$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/init/Recipes.java"/>
+        <option value="$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/reference/Names.java"/>
+        <option value="$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/init/ModItems.java"/>
+        <option value="$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/block/BlockBaseKC.java"/>
+        <option value="$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/util/NBTHelper.java"/>
+      </list>
+    </option>
   </component>
   <component name="ModuleEditorState">
     <option name="LAST_EDITED_MODULE_NAME"/>
     <option name="LAST_EDITED_TAB_NAME"/>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8"/>
+    <option name="y" value="-8"/>
+    <option name="width" value="1936"/>
+    <option name="height" value="1216"/>
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state/>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting id="Add" value="true"/>
     <OptionsSetting id="Remove" value="true"/>
     <OptionsSetting id="Checkout" value="true"/>
@@ -73,6 +160,365 @@
   <component name="ProjectReloadState">
     <option name="STATE" value="0"/>
   </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages/>
+      <showMembers/>
+      <showModules/>
+      <showLibraryContents/>
+      <hideEmptyPackages/>
+      <abbreviatePackageNames/>
+      <autoscrollToSource/>
+      <autoscrollFromSource/>
+      <sortByType/>
+    </navigator>
+    <panes>
+      <pane id="PackagesPane"/>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="latigra"/>
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="latigra"/>
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="latigra"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="latigra"/>
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="latigra"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="latigra"/>
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="latigra"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="krystalcraft"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="latigra"/>
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="latigra"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="krystalcraft"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="util"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="latigra"/>
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="latigra"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="krystalcraft"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tileentity"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="latigra"/>
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="latigra"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="krystalcraft"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reference"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="latigra"/>
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="latigra"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="krystalcraft"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="item"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="latigra"/>
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="latigra"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="krystalcraft"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="init"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="latigra"/>
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="latigra"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="krystalcraft"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="creativeTab"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="latigra"/>
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="latigra"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="krystalcraft"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="renderer"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="latigra"/>
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="latigra"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="krystalcraft"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gui"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="latigra"/>
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="latigra"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="krystalcraft"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="block"/>
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope"/>
+    </panes>
+  </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false"/>
     <property name="GoToClass.toSaveIncludeLibraries" value="false"/>
@@ -80,17 +526,78 @@
     <property name="MemberChooser.showClasses" value="true"/>
     <property name="GoToClass.includeLibraries" value="false"/>
     <property name="MemberChooser.copyJavadoc" value="false"/>
+    <property name="recentsLimit" value="5"/>
+    <property name="FullScreen" value="false"/>
+    <property name="dynamic.classpath" value="false"/>
+    <property name="OverrideImplement.combined" value="true"/>
+    <property name="OverrideImplement.overriding.sorted" value="false"/>
+    <property name="restartRequiresConfirmation" value="true"/>
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.metzen227.krystalcraft.client.renderer"/>
+      <recent name="com.metzen227.krystalcraft.client"/>
+      <recent name="com.metzen227"/>
+      <recent name="com.krystalcraft.client.gui"/>
+      <recent name="com.krystalcraft.client"/>
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Minecraft Client">
+    <configuration default="true" factoryName="Android Tests" type="AndroidTestRunConfigurationType">
+      <module name=""/>
+      <option name="TESTING_TYPE" value="0"/>
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value=""/>
+      <option name="METHOD_NAME" value=""/>
+      <option name="CLASS_NAME" value=""/>
+      <option name="PACKAGE_NAME" value=""/>
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR"/>
+      <option name="USE_LAST_SELECTED_DEVICE" value="false"/>
+      <option name="PREFERRED_AVD" value=""/>
+      <option name="USE_COMMAND_LINE" value="true"/>
+      <option name="COMMAND_LINE" value=""/>
+      <option name="WIPE_USER_DATA" value="false"/>
+      <option name="DISABLE_BOOT_ANIMATION" value="false"/>
+      <option name="NETWORK_SPEED" value="full"/>
+      <option name="NETWORK_LATENCY" value="none"/>
+      <option name="CLEAR_LOGCAT" value="false"/>
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true"/>
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true"/>
+      <method/>
+    </configuration>
     <configuration default="true" factoryName="Remote" type="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true"/>
       <option name="SERVER_MODE" value="false"/>
       <option name="SHMEM_ADDRESS" value="javadebug"/>
       <option name="HOST" value="localhost"/>
       <option name="PORT" value="5005"/>
-      <method>
-        <option enabled="false" name="BuildArtifacts"/>
-      </method>
+      <method/>
+    </configuration>
+    <configuration default="true" factoryName="TestNG" type="TestNG">
+      <module name=""/>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false"/>
+      <option name="ALTERNATIVE_JRE_PATH"/>
+      <option name="SUITE_NAME"/>
+      <option name="PACKAGE_NAME"/>
+      <option name="MAIN_CLASS_NAME"/>
+      <option name="METHOD_NAME"/>
+      <option name="GROUP_NAME"/>
+      <option name="TEST_OBJECT" value="CLASS"/>
+      <option name="VM_PARAMETERS"/>
+      <option name="PARAMETERS"/>
+      <option name="WORKING_DIRECTORY"/>
+      <option name="OUTPUT_DIRECTORY"/>
+      <option name="ANNOTATION_TYPE"/>
+      <option name="ENV_VARIABLES"/>
+      <option name="PASS_PARENT_ENVS" value="true"/>
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies"/>
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false"/>
+      <option name="PROPERTIES_FILE"/>
+      <envs/>
+      <properties/>
+      <listeners/>
+      <method/>
     </configuration>
     <configuration default="true" factoryName="Applet" type="Applet">
       <module name=""/>
@@ -103,10 +610,7 @@
       <option name="VM_PARAMETERS"/>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false"/>
       <option name="ALTERNATIVE_JRE_PATH"/>
-      <method>
-        <option enabled="false" name="BuildArtifacts"/>
-        <option enabled="true" name="Make"/>
-      </method>
+      <method/>
     </configuration>
     <configuration default="true" factoryName="Application" type="Application">
       <extension enabled="false" merge="false" name="coverage"/>
@@ -121,10 +625,7 @@
       <option name="PASS_PARENT_ENVS" value="true"/>
       <module name=""/>
       <envs/>
-      <method>
-        <option enabled="false" name="BuildArtifacts"/>
-        <option enabled="true" name="Make"/>
-      </method>
+      <method/>
     </configuration>
     <configuration default="true" factoryName="JUnit" type="JUnit">
       <extension enabled="false" merge="false" name="coverage"/>
@@ -144,12 +645,67 @@
         <value defaultName="moduleWithDependencies"/>
       </option>
       <envs/>
-      <method>
-        <option enabled="false" name="BuildArtifacts"/>
-        <option enabled="true" name="Make"/>
-      </method>
+      <patterns/>
+      <method/>
     </configuration>
-    <list size="0"/>
+    <configuration default="true" factoryName="Android Application" type="AndroidRunConfigurationType">
+      <module name=""/>
+      <option name="ACTIVITY_CLASS" value=""/>
+      <option name="MODE" value="default_activity"/>
+      <option name="DEPLOY" value="true"/>
+      <option name="ARTIFACT_NAME" value=""/>
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR"/>
+      <option name="USE_LAST_SELECTED_DEVICE" value="false"/>
+      <option name="PREFERRED_AVD" value=""/>
+      <option name="USE_COMMAND_LINE" value="true"/>
+      <option name="COMMAND_LINE" value=""/>
+      <option name="WIPE_USER_DATA" value="false"/>
+      <option name="DISABLE_BOOT_ANIMATION" value="false"/>
+      <option name="NETWORK_SPEED" value="full"/>
+      <option name="NETWORK_LATENCY" value="none"/>
+      <option name="CLEAR_LOGCAT" value="false"/>
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true"/>
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true"/>
+      <method/>
+    </configuration>
+    <configuration default="false" factoryName="Application" name="Minecraft Client" type="Application">
+      <extension enabled="false" name="coverage" runner="idea" sample_coverage="true"/>
+      <option name="MAIN_CLASS_NAME" value="GradleStart"/>
+      <option name="VM_PARAMETERS" value="-Xincgc -Xmx1024M -Xms1024M -Djava.library.path=&quot;$PROJECT_DIR$/../latigra\build\natives&quot; -Dfml.ignoreInvalidMinecraftCertificates=true"/>
+      <option name="PROGRAM_PARAMETERS" value="--username isundra@yahoo.com --password Vision227"/>
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/run"/>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false"/>
+      <option name="ALTERNATIVE_JRE_PATH" value=""/>
+      <option name="ENABLE_SWING_INSPECTOR" value="false"/>
+      <option name="ENV_VARIABLES"/>
+      <option name="PASS_PARENT_ENVS" value="true"/>
+      <module name="latigra"/>
+      <envs/>
+      <RunnerSettings RunnerId="Run"/>
+      <ConfigurationWrapper RunnerId="Run"/>
+      <method/>
+    </configuration>
+    <configuration default="false" factoryName="Application" name="Minecraft Server" type="Application">
+      <extension enabled="false" name="coverage" runner="idea" sample_coverage="true"/>
+      <option name="MAIN_CLASS_NAME" value="GradleStartServer"/>
+      <option name="VM_PARAMETERS" value="-Xincgc -Dfml.ignoreInvalidMinecraftCertificates=true"/>
+      <option name="PROGRAM_PARAMETERS" value=""/>
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../latigra\run"/>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false"/>
+      <option name="ALTERNATIVE_JRE_PATH" value=""/>
+      <option name="ENABLE_SWING_INSPECTOR" value="false"/>
+      <option name="ENV_VARIABLES"/>
+      <option name="PASS_PARENT_ENVS" value="true"/>
+      <module name="latigra"/>
+      <envs/>
+      <RunnerSettings RunnerId="Run"/>
+      <ConfigurationWrapper RunnerId="Run"/>
+      <method/>
+    </configuration>
+    <list size="2">
+      <item class="java.lang.String" index="0" itemvalue="Application.Minecraft Client"/>
+      <item class="java.lang.String" index="1" itemvalue="Application.Minecraft Server"/>
+    </list>
     <configuration default="true" name="&lt;template&gt;" selected="false" type="WebApp">
       <Host>localhost</Host>
       <Port>5050</Port>
@@ -190,52 +746,448 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false"/>
-  <component maxAnnotateRevisions="500" name="SvnConfiguration">
-    <option name="USER" value=""/>
-    <option name="PASSWORD" value=""/>
-    <option name="LAST_MERGED_REVISION"/>
-    <option name="UPDATE_RUN_STATUS" value="false"/>
-    <option name="MERGE_DRY_RUN" value="false"/>
-    <option name="MERGE_DIFF_USE_ANCESTRY" value="true"/>
-    <option name="UPDATE_LOCK_ON_DEMAND" value="false"/>
-    <option name="IGNORE_SPACES_IN_MERGE" value="false"/>
-    <option name="DETECT_NESTED_COPIES" value="true"/>
-    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true"/>
-    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true"/>
-    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  <component name="SvnConfiguration">
+    <configuration/>
   </component>
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task"/>
+    <task active="true" id="Default" summary="Default task">
+      <changelist comment="" id="5eef777d-cf60-4450-b5da-8f9938606766" name="Default"/>
+      <created>1403635809611</created>
+      <updated>1403635809611</updated>
+    </task>
     <servers/>
   </component>
+  <component name="ToolWindowManager">
+    <frame extended-state="6" height="1216" width="1936" x="-8" y="-8"/>
+    <editor active="true"/>
+    <layout>
+      <window_info active="false" anchor="left" auto_hide="false" content_ui="tabs" id="Palette " internal_type="DOCKED" order="2" sideWeight="0.5" side_tool="false" type="DOCKED" visible="false" weight="0.33"/>
+      <window_info active="false" anchor="bottom" auto_hide="false" content_ui="tabs" id="Changes" internal_type="DOCKED" order="7" sideWeight="0.5" side_tool="false" type="DOCKED" visible="false" weight="0.33"/>
+      <window_info active="false" anchor="right" auto_hide="false" content_ui="tabs" id="Designer" internal_type="DOCKED" order="3" sideWeight="0.5" side_tool="false" type="DOCKED" visible="false" weight="0.33"/>
+      <window_info active="false" anchor="right" auto_hide="false" content_ui="tabs" id="Palette" internal_type="DOCKED" order="3" sideWeight="0.5" side_tool="false" type="DOCKED" visible="false" weight="0.33"/>
+      <window_info active="false" anchor="bottom" auto_hide="false" content_ui="tabs" id="Terminal" internal_type="DOCKED" order="7" sideWeight="0.5" side_tool="false" type="DOCKED" visible="false" weight="0.16974169"/>
+      <window_info active="false" anchor="right" auto_hide="false" content_ui="tabs" id="Ant Build" internal_type="DOCKED" order="1" sideWeight="0.5" side_tool="false" type="DOCKED" visible="false" weight="0.25"/>
+      <window_info active="false" anchor="bottom" auto_hide="false" content_ui="tabs" id="Debug" internal_type="DOCKED" order="3" sideWeight="0.5" side_tool="false" type="DOCKED" visible="false" weight="0.4"/>
+      <window_info active="false" anchor="bottom" auto_hide="false" content_ui="tabs" id="Event Log" internal_type="DOCKED" order="7" sideWeight="0.5" side_tool="true" type="DOCKED" visible="false" weight="0.33"/>
+      <window_info active="false" anchor="left" auto_hide="false" content_ui="tabs" id="Favorites" internal_type="DOCKED" order="2" sideWeight="0.5" side_tool="true" type="DOCKED" visible="false" weight="0.33"/>
+      <window_info active="false" anchor="bottom" auto_hide="false" content_ui="tabs" id="Version Control" internal_type="DOCKED" order="7" sideWeight="0.5" side_tool="false" type="DOCKED" visible="false" weight="0.33"/>
+      <window_info active="false" anchor="bottom" auto_hide="false" content_ui="tabs" id="TODO" internal_type="DOCKED" order="6" sideWeight="0.5" side_tool="false" type="DOCKED" visible="false" weight="0.33"/>
+      <window_info active="false" anchor="left" auto_hide="false" content_ui="tabs" id="Structure" internal_type="DOCKED" order="1" sideWeight="0.5" side_tool="false" type="DOCKED" visible="false" weight="0.25"/>
+      <window_info active="false" anchor="right" auto_hide="false" content_ui="tabs" id="Maven Projects" internal_type="DOCKED" order="3" sideWeight="0.5" side_tool="false" type="DOCKED" visible="false" weight="0.33"/>
+      <window_info active="false" anchor="right" auto_hide="false" content_ui="tabs" id="Commander" internal_type="SLIDING" order="0" sideWeight="0.5" side_tool="false" type="SLIDING" visible="false" weight="0.4"/>
+      <window_info active="false" anchor="bottom" auto_hide="false" content_ui="tabs" id="Application Servers" internal_type="DOCKED" order="7" sideWeight="0.5" side_tool="false" type="DOCKED" visible="false" weight="0.33"/>
+      <window_info active="false" anchor="left" auto_hide="false" content_ui="combo" id="Project" internal_type="DOCKED" order="0" sideWeight="0.5" side_tool="false" type="DOCKED" visible="true" weight="0.1705757"/>
+      <window_info active="false" anchor="bottom" auto_hide="false" content_ui="tabs" id="Run" internal_type="DOCKED" order="2" sideWeight="0.5" side_tool="false" type="DOCKED" visible="false" weight="0.2098408"/>
+      <window_info active="false" anchor="bottom" auto_hide="false" content_ui="tabs" id="Cvs" internal_type="DOCKED" order="4" sideWeight="0.5" side_tool="false" type="DOCKED" visible="false" weight="0.25"/>
+      <window_info active="false" anchor="bottom" auto_hide="false" content_ui="tabs" id="Message" internal_type="DOCKED" order="0" sideWeight="0.5" side_tool="false" type="DOCKED" visible="false" weight="0.33"/>
+      <window_info active="false" anchor="bottom" auto_hide="false" content_ui="tabs" id="Find" internal_type="DOCKED" order="1" sideWeight="0.5" side_tool="false" type="DOCKED" visible="false" weight="0.32933578"/>
+      <window_info active="false" anchor="left" auto_hide="false" content_ui="tabs" id="Palette " internal_type="DOCKED" order="2" sideWeight="0.5" side_tool="false" type="DOCKED" visible="false" weight="0.33"/>
+      <window_info active="false" anchor="bottom" auto_hide="false" content_ui="tabs" id="Messages" internal_type="DOCKED" order="8" sideWeight="0.5" side_tool="false" type="DOCKED" visible="false" weight="0.32841328"/>
+      <window_info active="false" anchor="right" auto_hide="false" content_ui="combo" id="Hierarchy" internal_type="DOCKED" order="2" sideWeight="0.5" side_tool="false" type="DOCKED" visible="false" weight="0.25"/>
+      <window_info active="false" anchor="bottom" auto_hide="false" content_ui="tabs" id="Inspection" internal_type="DOCKED" order="5" sideWeight="0.5" side_tool="false" type="DOCKED" visible="false" weight="0.3994465"/>
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection/>
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection/>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000"/>
+  </component>
   <component name="VcsManagerConfiguration">
-    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true"/>
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true"/>
-    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true"/>
-    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true"/>
-    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true"/>
-    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true"/>
-    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true"/>
-    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false"/>
-    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false"/>
-    <option name="ENABLE_BACKGROUND_PROCESSES" value="false"/>
-    <option name="CHANGED_ON_SERVER_INTERVAL" value="60"/>
-    <option name="FORCE_NON_EMPTY_COMMENT" value="false"/>
-    <option name="LAST_COMMIT_MESSAGE"/>
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings/>
+    </option>
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true"/>
-    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false"/>
-    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false"/>
-    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false"/>
-    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false"/>
-    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8"/>
-    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5"/>
-    <option name="ACTIVE_VCS_NAME"/>
-    <option name="UPDATE_GROUP_BY_PACKAGES" value="false"/>
-    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false"/>
-    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false"/>
-    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6"/>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager/>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false"/>
+    <option name="FILTER_TARGETS" value="false"/>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/init/ModItems.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="459" vertical-offset="357" vertical-scroll-proportion="0.0">
+          <caret column="0" line="21" selection-end-column="0" selection-end-line="21" selection-start-column="0" selection-start-line="21"/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/KrystalCraft.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="782" vertical-offset="680" vertical-scroll-proportion="0.0">
+          <caret column="1" line="40" selection-end-column="1" selection-end-line="40" selection-start-column="1" selection-start-line="40"/>
+          <folding/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/handler/ConfigurationHandler.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="1003" vertical-offset="187" vertical-scroll-proportion="0.0">
+          <caret column="1" line="11" selection-end-column="1" selection-end-line="11" selection-start-column="1" selection-start-line="11"/>
+          <folding/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/client/gui/ModGuiConfig.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="476" vertical-offset="374" vertical-scroll-proportion="0.0">
+          <caret column="0" line="22" selection-end-column="0" selection-end-line="22" selection-start-column="0" selection-start-line="22"/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/client/gui/GuiFactory.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="612" vertical-offset="238" vertical-scroll-proportion="0.0">
+          <caret column="0" line="14" selection-end-column="0" selection-end-line="14" selection-start-column="0" selection-start-line="14"/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/reference/References.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="323" vertical-offset="221" vertical-scroll-proportion="0.0">
+          <caret column="0" line="13" selection-end-column="0" selection-end-line="13" selection-start-column="0" selection-start-line="13"/>
+          <folding/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/KrystalCraft.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="782" vertical-offset="646" vertical-scroll-proportion="0.0">
+          <caret column="5" line="38" selection-end-column="5" selection-end-line="38" selection-start-column="5" selection-start-line="38"/>
+          <folding/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/handler/ConfigurationHandler.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="1003" vertical-offset="187" vertical-scroll-proportion="0.0">
+          <caret column="1" line="11" selection-end-column="1" selection-end-line="11" selection-start-column="1" selection-start-line="11"/>
+          <folding/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/client/gui/ModGuiConfig.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="527" vertical-offset="374" vertical-scroll-proportion="0.0">
+          <caret column="96" line="22" selection-end-column="96" selection-end-line="22" selection-start-column="96" selection-start-line="22"/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/client/gui/GuiFactory.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="612" vertical-offset="510" vertical-scroll-proportion="0.0">
+          <caret column="0" line="30" selection-end-column="0" selection-end-line="30" selection-start-column="0" selection-start-line="30"/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/reference/References.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="323" vertical-offset="221" vertical-scroll-proportion="0.0">
+          <caret column="0" line="13" selection-end-column="0" selection-end-line="13" selection-start-column="0" selection-start-line="13"/>
+          <folding/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/KrystalCraft.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="782" vertical-offset="0" vertical-scroll-proportion="0.0">
+          <caret column="5" line="38" selection-end-column="5" selection-end-line="38" selection-start-column="5" selection-start-line="38"/>
+          <folding/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/handler/ConfigurationHandler.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="1003" vertical-offset="663" vertical-scroll-proportion="0.0">
+          <caret column="35" line="39" selection-end-column="35" selection-end-line="39" selection-start-column="35" selection-start-line="39"/>
+          <folding/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/client/gui/ModGuiConfig.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="527" vertical-offset="374" vertical-scroll-proportion="0.0">
+          <caret column="96" line="22" selection-end-column="96" selection-end-line="22" selection-start-column="96" selection-start-line="22"/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/client/gui/GuiFactory.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="612" vertical-offset="510" vertical-scroll-proportion="0.0">
+          <caret column="0" line="30" selection-end-column="0" selection-end-line="30" selection-start-column="0" selection-start-line="30"/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/reference/References.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="323" vertical-offset="221" vertical-scroll-proportion="0.0">
+          <caret column="0" line="13" selection-end-column="0" selection-end-line="13" selection-start-column="0" selection-start-line="13"/>
+          <folding/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/KrystalCraft.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="782" vertical-offset="425" vertical-scroll-proportion="0.0">
+          <caret column="8" line="25" selection-end-column="8" selection-end-line="25" selection-start-column="8" selection-start-line="25"/>
+          <folding/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/handler/ConfigurationHandler.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="748" vertical-offset="646" vertical-scroll-proportion="0.0">
+          <caret column="0" line="38" selection-end-column="0" selection-end-line="38" selection-start-column="0" selection-start-line="38"/>
+          <folding/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/reference/References.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="323" vertical-offset="221" vertical-scroll-proportion="0.0">
+          <caret column="0" line="13" selection-end-column="0" selection-end-line="13" selection-start-column="0" selection-start-line="13"/>
+          <folding/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/reference/References.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="272" vertical-offset="170" vertical-scroll-proportion="0.0">
+          <caret column="0" line="10" selection-end-column="0" selection-end-line="10" selection-start-column="0" selection-start-line="10"/>
+          <folding/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mcmod.info">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="1800" vertical-offset="0" vertical-scroll-proportion="0.14166667">
+          <caret column="1" line="15" selection-end-column="1" selection-end-line="15" selection-start-column="1" selection-start-line="15"/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/proxy/ClientProxy.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="204" vertical-offset="0" vertical-scroll-proportion="0.0">
+          <caret column="4" line="4" selection-end-column="4" selection-end-line="4" selection-start-column="4" selection-start-line="4"/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/proxy/ServerProxy.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="204" vertical-offset="0" vertical-scroll-proportion="0.0">
+          <caret column="4" line="4" selection-end-column="4" selection-end-line="4" selection-start-column="4" selection-start-line="4"/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/proxy/CommonProxy.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="204" vertical-offset="0" vertical-scroll-proportion="0.0">
+          <caret column="0" line="6" selection-end-column="0" selection-end-line="6" selection-start-column="0" selection-start-line="6"/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/proxy/IProxy.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="221" vertical-offset="0" vertical-scroll-proportion="0.0">
+          <caret column="0" line="4" selection-end-column="0" selection-end-line="4" selection-start-column="0" selection-start-line="4"/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.2-10.12.2.1121/forgeSrc-1.7.2-10.12.2.1121-sources.jar!/cpw/mods/fml/common/event/FMLPreInitializationEvent.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="1649" vertical-offset="0" vertical-scroll-proportion="0.06934059">
+          <caret column="13" line="28" selection-end-column="13" selection-end-line="28" selection-start-column="13" selection-start-line="28"/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/client/gui/ModGuiConfig.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="1056" vertical-offset="0" vertical-scroll-proportion="0.27367425">
+          <caret column="0" line="22" selection-end-column="0" selection-end-line="22" selection-start-column="0" selection-start-line="22"/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/client/gui/GuiFactory.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="1056" vertical-offset="0" vertical-scroll-proportion="0.16098484">
+          <caret column="0" line="14" selection-end-column="0" selection-end-line="14" selection-start-column="0" selection-start-line="14"/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/util/LogHelper.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="824" vertical-offset="0" vertical-scroll-proportion="0.7220874">
+          <caret column="0" line="35" selection-end-column="0" selection-end-line="35" selection-start-column="0" selection-start-line="35"/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/handler/ConfigurationHandler.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="901" vertical-offset="77" vertical-scroll-proportion="0.5048544">
+          <caret column="9" line="35" selection-end-column="9" selection-end-line="35" selection-start-column="9" selection-start-line="35"/>
+          <folding/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="2890" vertical-offset="0" vertical-scroll-proportion="0.0">
+          <caret column="0" line="0" selection-end-column="0" selection-end-line="0" selection-start-column="0" selection-start-line="0"/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/modDev1.7.x/development/code/ModularShardCraft/src/com/metzen227/msc/ModularShardCraft.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="1056" vertical-offset="0" vertical-scroll-proportion="0.25757575">
+          <caret column="0" line="18" selection-end-column="0" selection-end-line="18" selection-start-column="0" selection-start-line="18"/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="1156" vertical-offset="102" vertical-scroll-proportion="0.37041286">
+          <caret column="1" line="25" selection-end-column="1" selection-end-line="25" selection-start-column="1" selection-start-line="25"/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1179/forgeSrc-1.7.10-10.13.0.1179-sources.jar!/net/minecraft/creativetab/CreativeTabs.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="5372" vertical-offset="0" vertical-scroll-proportion="0.079161815">
+          <caret column="22" line="14" selection-end-column="22" selection-end-line="14" selection-start-column="22" selection-start-line="14"/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/item/ItemAttunementRod.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="872" vertical-offset="0" vertical-scroll-proportion="0.07798165">
+          <caret column="13" line="4" selection-end-column="13" selection-end-line="4" selection-start-column="13" selection-start-line="4"/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/item/ItemBaseKC.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="872" vertical-offset="0" vertical-scroll-proportion="0.7798165">
+          <caret column="0" line="46" selection-end-column="0" selection-end-line="46" selection-start-column="0" selection-start-line="46"/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/krystalcraft/lang/en_US.lang">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="827" vertical-offset="0" vertical-scroll-proportion="0.041112456">
+          <caret column="36" line="2" selection-end-column="36" selection-end-line="2" selection-start-column="36" selection-start-line="2"/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/creativeTab/CreativeTabKC.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="827" vertical-offset="0" vertical-scroll-proportion="0.18500605">
+          <caret column="94" line="9" selection-end-column="94" selection-end-line="9" selection-start-column="94" selection-start-line="9"/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/util/ResourceLocationHelper.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="827" vertical-offset="0" vertical-scroll-proportion="0.3700121">
+          <caret column="0" line="18" selection-end-column="0" selection-end-line="18" selection-start-column="0" selection-start-line="18"/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/reference/Textures.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="827" vertical-offset="0" vertical-scroll-proportion="0.49334946">
+          <caret column="0" line="24" selection-end-column="0" selection-end-line="24" selection-start-column="0" selection-start-line="24"/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/reference/References.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="827" vertical-offset="0" vertical-scroll-proportion="0.041112456">
+          <caret column="13" line="2" selection-end-column="13" selection-end-line="2" selection-start-column="13" selection-start-line="2"/>
+          <folding/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/reference/GuiId.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="827" vertical-offset="0" vertical-scroll-proportion="0.16444983">
+          <caret column="0" line="8" selection-end-column="0" selection-end-line="8" selection-start-column="0" selection-start-line="8"/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/init/ModItems.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="442" vertical-offset="0" vertical-scroll-proportion="0.0">
+          <caret column="0" line="24" selection-end-column="0" selection-end-line="24" selection-start-column="0" selection-start-line="24"/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/reference/Names.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="827" vertical-offset="0" vertical-scroll-proportion="0.24667473">
+          <caret column="5" line="12" selection-end-column="5" selection-end-line="12" selection-start-column="5" selection-start-line="12"/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/init/Recipes.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="612" vertical-offset="0" vertical-scroll-proportion="0.0">
+          <caret column="0" line="30" selection-end-column="0" selection-end-line="30" selection-start-column="0" selection-start-line="30"/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/init/ModBlocks.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="827" vertical-offset="0" vertical-scroll-proportion="0.41112456">
+          <caret column="0" line="24" selection-end-column="0" selection-end-line="24" selection-start-column="0" selection-start-line="24"/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/block/BlockAttunementTable.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="289" vertical-offset="0" vertical-scroll-proportion="0.0">
+          <caret column="13" line="2" selection-end-column="13" selection-end-line="2" selection-start-column="13" selection-start-line="2"/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/block/BlockBaseKC.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="2516" vertical-offset="0" vertical-scroll-proportion="2.5489721">
+          <caret column="33" line="142" selection-end-column="33" selection-end-line="142" selection-start-column="33" selection-start-line="142"/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/tileentity/TileEntityKC.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="1700" vertical-offset="0" vertical-scroll-proportion="1.541717">
+          <caret column="61" line="108" selection-end-column="61" selection-end-line="108" selection-start-column="61" selection-start-line="108"/>
+          <folding/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/util/NBTHelper.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="4148" vertical-offset="0" vertical-scroll-proportion="0.0">
+          <caret column="38" line="41" selection-end-column="38" selection-end-line="41" selection-start-column="38" selection-start-line="41"/>
+          <folding>
+            <element expanded="true" signature="imports"/>
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/metzen227/krystalcraft/KrystalCraft.java">
+      <provider editor-type-id="text-editor" selected="true">
+        <state max-vertical-offset="1056" vertical-offset="0" vertical-scroll-proportion="0.53125">
+          <caret column="23" line="46" selection-end-column="23" selection-end-line="46" selection-start-column="23" selection-start-line="46"/>
+          <folding/>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
